@@ -34,7 +34,7 @@ namespace WindowsFormsApp2
             // This method is intentionally left empty.
             // You can add functionality here if needed.
             // For example, you could display a message box or log the click.
-            // but for now, im keeping it empty since i dont need it.
+            // But for now, I'm keeping it empty since I don't need it.
         }
     }
 }
