@@ -20,8 +20,6 @@ The sln is in the root folder of Basic-Clicker.
 ## What file to edit?
 Go into the WindowsFormsApp2 folder, and then edit the Form1.cs for logic, and Form1.Designer.cs for UI editing if you don't use the GUI Designer.
 
-And that should help on how to set up the project!
-
 ## What is the license?
 BSD-3 Clause. You can use it in ANYTHING.
 
