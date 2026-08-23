@@ -10,7 +10,7 @@ It should help beginners understand how simple games work, like how events, acti
 - Easy structure
 
 ## How to run the template
-1. Clone the repo by opening Command Prompt or any other terminal and typing 'git clone https://github.com/digitcoder22/Basic-Clicker.git'
+1. Clone the repo by opening Command Prompt or any other terminal and typing `git clone https://github.com/digitcoder22/Basic-Clicker.git`
 2. Open Visual Studio (2022 because the project was made with VS Community 2022) and select the .sln
 3. Click the Start button (or press the F5 key.)
 
