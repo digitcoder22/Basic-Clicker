@@ -32,9 +32,6 @@ namespace WindowsFormsApp2
         private void scoreLabel_Click(object sender, EventArgs e)
         {
             // This method is intentionally left empty.
-            // You can add functionality here if needed.
-            // For example, you could display a message box or log the click.
-            // But for now, I'm keeping it empty since I don't need it.
         }
     }
 }
